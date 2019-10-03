@@ -1,0 +1,130 @@
+{
+  "page": {
+
+    "home": {},
+
+    "who": {
+      "title": "Who are you?",
+      "p_1": "We are a team of skilled artists based in Costa Rica. We have created some amazing murals for a wide range of personal and commercial spaces around the World.",
+      "p_2": "We can work with any ideas you may have to create something special for you and your customers to enjoy."
+    },
+
+    "what": {
+      "title": "What do you offer?",
+      "p_1": "Services we can provide include;",
+      "services": {
+        "service_1": "Large scale portrait",
+        "service_2": "Abstract paintings",
+        "service_3": "Typography",
+        "service_4": "Sign writing",
+        "service_5": "Replication",
+        "service_6": "Customized scenery",
+        "service_7": "plus more.."
+      },
+      "p_2": "Our prices are competitive and we provide top quality product."
+    },
+
+    "where": {
+      "title": "Show me examples",
+      "p_1": "Small sample of our work that's been accomplished over the years and demonstrate our abilities.",
+      "p_2": "For more stuff please visit our instagram account at"
+    },
+
+    "how": {
+      "title": "How do I hire you?",
+      "p_1": "To save time and make it easier for everyone, we've prepared a simple form that will get the process started, please fill out as many details as possible to avoid any confusions.",
+      "thanks": "Thank you for your consideration, we're looking forward to working with you.",
+      "form": {
+        "hello": "Hello",
+        "would_like": "I would like to get a mural on",
+        "placement": {
+          "indoor": "Indoor Wall(s)",
+          "outdoor": "Outdoor Wall(s)",
+          "ceiling": "Ceiling(s)",
+          "floor": "Floor(s)",
+          "other": "Other"
+        },
+        "which": "which is",
+        "surfaces": {
+          "concrete": "Concrete",
+          "cement": "Cement",
+          "drywall": "Drywall",
+          "brick": "Brick",
+          "wood": "Wood",
+          "stucco": "Stucco",
+          "metal": "Metal",
+          "other": "Other"
+        },
+        "size_of": "surface, size of the surface is about",
+        "dimension": "meters squared and located on",
+        "properties": {
+          "residential": "Residential",
+          "commercial": "Commercial",
+          "industrial": "Industrial",
+          "public": "Public",
+          "other": "Other"
+        },
+        "property": "property",
+        "in_design": {
+          "have_idea": "I have an idea of what I want",
+          "have_drawings": "I have design drawings",
+          "have_sketches": "I have sketches",
+          "need_designer": "I need a designer",
+          "other": "Other"
+        },
+        "need_it_done": "and would like to have it done",
+        "when": {
+          "on_date": "On one particular date",
+          "in_days": "In the next few days",
+          "asap": "As soon as possible",
+          "flexible": "I'm flexible"
+        },
+        "contact_at": "Please contact me at",
+        "thanks": "Thank you",
+        "button": "Send"
+      },
+      "details": {
+        "title": "What about pricing & other?",
+        "p_1": "After initial contact via email, we will proceed with the following steps;",
+        "item_1_title": "First Contact",
+        "item_1_p": "After brief introductions via email, we meet onsite to discuss the project further and get additional details about the scope of the work.",
+        "item_2_title": "Price",
+        "item_2_p": "Discussion about the budget and price agreement is achieved.",
+        "item_3_title": "Signed Contract & Design deposit",
+        "item_3_pa": "Proposal for work which includes a contract is provided, agreement about payment methods and initial deposit of",
+        "item_3_pb": "s made, work on design begins.",
+        "item_4_title": "Design process & Sketch",
+        "item_4_p": "This stage depends on whether or not you have an idea or design or sketch ready, otherwise it's brainstorming session between parties until ideal composition is achieved.",
+        "item_5_title": "Final preparations & Mural Deposit",
+        "item_5_pa": "Before work on site can begin, a deposit in the sum of",
+        "item_5_pb": "of total value is provided which is used to purchase required supplies to complete the job. This is the last point of design review before work begins.",
+        "item_6_title": "Painting",
+        "item_6_p": "Depending on the job site and agreement reached previous, painting will be done either in the early mornings due to sun exposure or late afternoon to late nights. Client can visit job site at anytime during process to comment and discuss progress with painter(s).",
+        "item_7_title": "Final Payment",
+        "item_7_pa": "Job is complete, client has signed off on the work and remaining balance of remaining",
+        "item_7_pb": "is paid in full."
+      },
+      "pricing": {
+        "title": "Pricing Chart",
+        "p_1": "The cost of mural is determined by size, level of detail and location (working space). To give you an idea of the cost we provide a small chart.",
+        "size": "SIZE",
+        "cost": "COST",
+        "under": "Under",
+        "meters": "meters",
+        "minimum": "(project minimum)",
+        "over": "over",
+        "p_2": "That's it, if you have any other questions then shoot us an email at"
+      }
+    }
+  },
+
+  "component": {
+
+    "sitenav": {
+      "who": "Who",
+      "what": "What",
+      "where": "Where",
+      "how": "How"
+    }
+  }
+}

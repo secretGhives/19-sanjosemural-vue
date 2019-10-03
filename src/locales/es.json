@@ -1,0 +1,130 @@
+{
+  "page": {
+
+    "home": {},
+
+    "who": {
+      "title": "Quien eres?",
+      "p_1": "Somos un equipo de artistas expertos con base en Costa Rica. Hemos creado algunos murales sorprendentes para una amplia gama de espacios personales y comerciales en todo el mundo.",
+      "p_2": "Podemos trabajar con cualquier idea que tenga que crear para que usted y sus clientes disfruten de algo especial."
+    },
+
+    "what": {
+      "title": "Que ofreces?",
+      "p_1": "Los servicios que podemos proporcionar incluyen;",
+      "services": {
+        "service_1": "Retrato a gran escala",
+        "service_2": "Pinturas abstractas",
+        "service_3": "Tipografía",
+        "service_4": "Escritura de letreros",
+        "service_5": "Replicación",
+        "service_6": "Escenario personalizado",
+        "service_7": "más más .."
+      },
+      "p_2": "Nuestros precios son competitivos y ofrecemos productos de alta calidad."
+    },
+
+    "where": {
+      "title": "Muestrame ejemplos",
+      "p_1": "Pequeña muestra de nuestro trabajo que se ha realizado a lo largo de los años y demuestra nuestras habilidades.",
+      "p_2": "Para más información, visite nuestra cuenta de instagram en"
+    },
+
+    "how": {
+      "title": "Como te contrato?",
+      "p_1": "Para ahorrar tiempo y hacer que sea más fácil para todos, hemos preparado un formulario sencillo que iniciará el proceso; complete la mayor cantidad de detalles posible para evitar confusiones.",
+      "thanks": "Gracias por su consideración, esperamos trabajar con usted.",
+      "form": {
+        "hello": "Hola",
+        "would_like": "Me gustaría poner un mural en",
+        "placement": {
+          "indoor": "Pared(es) interior(es)",
+          "outdoor": "Pared(s) al aire libre",
+          "ceiling": "Techo(s)",
+          "floor": "Piso(s)",
+          "other": "Otro"
+        },
+        "which": "que es",
+        "surfaces": {
+          "concrete": "Hormigón",
+          "cement": "Cemento",
+          "drywall": "Paneles de yeso",
+          "brick": "Ladrillo",
+          "wood": "Madera",
+          "stucco": "Estuco",
+          "metal": "Metal",
+          "other": "Otro"
+        },
+        "size_of": "superficie, el tamaño de la superficie es aproximadamente",
+        "dimension": "metros cuadrados y localizados en",
+        "properties": {
+          "residential": "Residencial",
+          "commercial": "Commercial",
+          "industrial": "Industrial",
+          "public": "Público",
+          "other": "Otro"
+        },
+        "property": "propiedad",
+        "in_design": {
+          "have_idea": "Tengo una idea de lo que quiero",
+          "have_drawings": "Tengo dibujos de diseño",
+          "have_sketches": "Tengo bocetos",
+          "need_designer": "Necesito un diseñador",
+          "other": "Otro"
+        },
+        "need_it_done": "y le gustaría que lo hiciera",
+        "when": {
+          "on_date": "En una fecha en particular",
+          "in_days": "En los próximos días",
+          "asap": "Lo antes posible, tan pronto como sea posible",
+          "flexible": "Soy flexible"
+        },
+        "contact_at": "Por favor, póngase en contacto conmigo en",
+        "thanks": "Gracias",
+        "button": "Enviar"
+      },
+      "details": {
+        "title": "¿Qué pasa con los precios y otros?",
+        "p_1": "Después del contacto inicial por correo electrónico, continuaremos con los siguientes pasos;",
+        "item_1_title": "Primer contacto",
+        "item_1_p": "Después de breves introducciones por correo electrónico, nos reunimos en el sitio para analizar el proyecto y obtener detalles adicionales sobre el alcance del trabajo.",
+        "item_2_title": "Precio",
+        "item_2_p": "Se logró una discusión sobre el presupuesto y el acuerdo de precios.",
+        "item_3_title": "Contrato firmado y depósito de diseño",
+        "item_3_pa": "Se proporciona una propuesta de trabajo que incluye un contrato, un acuerdo sobre los métodos de pago y el depósito inicial de",
+        "item_3_pb": "s hecho, el trabajo en el diseño comienza.",
+        "item_4_title": "Proceso de diseño y bosquejo",
+        "item_4_p": "Esta etapa depende de si tienes o no una idea, un diseño o un boceto listos; de lo contrario, se trata de una sesión de intercambio de ideas entre las partes hasta lograr la composición ideal.",
+        "item_5_title": "Preparativos finales y depósito mural",
+        "item_5_pa": "Antes de que pueda comenzar el trabajo en el sitio, un depósito en la suma de",
+        "item_5_pb": "se proporciona un valor total que se utiliza para comprar los suministros necesarios para completar el trabajo. Este es el último punto de la revisión del diseño antes de que comience el trabajo.",
+        "item_6_title": "Pintura",
+        "item_6_p": "Dependiendo del lugar de trabajo y del acuerdo alcanzado anteriormente, la pintura se realizará en las primeras horas de la mañana debido a la exposición al sol o de la tarde a las últimas noches. El cliente puede visitar el sitio de trabajo en cualquier momento durante el proceso para comentar y analizar el progreso pintor (es).",
+        "item_7_title": "Pago final",
+        "item_7_pa": "El trabajo está completo, el cliente ha cerrado la sesión y el saldo restante",
+        "item_7_pb": "se paga en su totalidad."
+      },
+      "pricing": {
+        "title": "Tabla de precios",
+        "p_1": "El costo del mural está determinado por el tamaño, el nivel de detalle y la ubicación (espacio de trabajo). Para darle una idea del costo, le proporcionamos un pequeño cuadro.",
+        "size": "TAMAÑO",
+        "cost": "COSTO",
+        "under": "Bajo",
+        "meters": "metros",
+        "minimum": "(mínimo del proyecto)",
+        "over": "sobre",
+        "p_2": "Eso es todo, si tiene alguna otra pregunta, envíenos un correo electrónico a"
+      }
+    }
+  },
+
+  "component": {
+
+    "sitenav": {
+      "who": "Quien",
+      "what": "Que",
+      "where": "Donde",
+      "how": "Cómo"
+    }
+  }
+}
